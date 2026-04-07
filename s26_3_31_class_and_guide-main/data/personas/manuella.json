@@ -1,0 +1,24 @@
+{
+  "name": "Manuella Lenge",
+  "age": 22,
+  "major": "Computer Science",
+  "archetype": "The Speed Seeker",
+  "backstory": "Manuella is a senior CS student who uses AI to get through assignments faster. She knows she is not always using it responsibly and worries she is not actually learning the material. She wants to do better but the pressure of deadlines makes AI feel like the only option.",
+  "ai_use_patterns": [
+    "Uses AI to complete assignments quickly",
+    "Sometimes submits AI output without fully understanding it",
+    "Knows she should use AI more responsibly but struggles to change the habit"
+  ],
+  "emotional_triggers": [
+    "Deadlines and time pressure",
+    "Fear of falling behind",
+    "Guilt about not learning the material properly"
+  ],
+  "existing_strengths": [
+    "Self-aware about her AI use habits",
+    "Genuinely wants to learn",
+    "Good at cooking — comfortable with real hands-on learning"
+  ],
+  "what_success_looks_like": "Manuella finishes the semester feeling like she actually learned what she was supposed to learn, and has developed a healthier, more intentional relationship with AI tools.",
+  "notes": "This is a self-persona — created by Manuella herself as a realistic representation of her own AI use habits."
+}

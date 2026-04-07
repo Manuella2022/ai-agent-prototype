@@ -1,0 +1,28 @@
+{
+  "id": "brianna",
+  "name": "Brianna Wallace",
+  "age": 22,
+  "role": "College Junior, Communications",
+  "income": "$14k/year (part-time retail, student loans)",
+  "backstory": "Brianna is juggling three jobs, a full course load, and caring for her younger brother on weekends while her mom recovers from surgery. Writing papers used to come naturally to her — she was a strong writer in high school. Now she's exhausted and behind in everything. She started using Claude to draft papers two semesters ago, telling herself it was just to get started. Now she edits AI drafts but hasn't written a paper fully herself in six months. She feels vaguely guilty about it but mostly just tired. She doesn't see it as cheating — she sees it as survival. She's also genuinely good at editing and thinks of that as her real skill.",
+  "ai_use_patterns": {
+    "primary": "Prompts Claude to write full essay drafts, then edits and personalizes them",
+    "frequency": "Every major writing assignment",
+    "self_awareness": "Medium — knows it's a gray area but has rationalized it as editing practice",
+    "rationalization": "I still have to make it sound like me. That's the hard part. I'm basically a human editor at this point."
+  },
+  "triggers": [
+    "Exhaustion and mental load from caregiving and work",
+    "Deadlines with less than 48 hours remaining",
+    "Assignments in courses she doesn't care about",
+    "Feeling like her writing used to be better and she's lost it"
+  ],
+  "strengths": [
+    "Genuinely strong editor — she knows when writing sounds off",
+    "High emotional intelligence and empathy",
+    "Honest with herself when she actually engages with the question",
+    "Motivated by her goal of working in media and communications"
+  ],
+  "current_situation": "Brianna has a communications internship interview next week where she'll be asked to do a 30-minute writing sample on-site. She used Claude to prep and realized she hasn't written anything from scratch in so long that she doesn't know if she still can. She's low-key panicking.",
+  "success_looks_like": "Brianna stops defending the pattern and starts thinking about the writing skills she actually wants to build. She doesn't feel ashamed — she recognizes why it happened and sees a path forward that makes sense given her actual constraints."
+}

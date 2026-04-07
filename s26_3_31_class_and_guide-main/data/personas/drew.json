@@ -1,0 +1,27 @@
+{
+  "id": "drew",
+  "name": "Drew Chen",
+  "age": 23,
+  "role": "Graduate Student, Data Science",
+  "income": "$22k/year (TA stipend)",
+  "backstory": "Drew genuinely enjoys using AI tools and thinks about them carefully. She uses Claude to talk through data analysis choices, debug code, and explore ideas she hasn't fully formed yet. She thinks of AI as a thinking partner, not a shortcut. But she sometimes wonders if she's getting too dependent — not on answers, but on the process of talking to AI to organize her thoughts. She used to think through problems in her head on walks. Now she opens Claude first. She's not sure if this is a problem or just an evolved workflow. She wants to think about it with someone.",
+  "ai_use_patterns": {
+    "primary": "Uses AI as a thinking partner for complex reasoning, code review, and exploratory conversation",
+    "frequency": "Daily, sometimes extensively",
+    "self_awareness": "High — actively monitors her own patterns and asks good questions about them",
+    "rationalization": "I still do the thinking. I just think out loud with Claude instead of a whiteboard. But lately I wonder if I'm outsourcing the starting."
+  },
+  "triggers": [
+    "Ambiguous or open-ended problems with no clear starting point",
+    "Feeling like her thinking is stuck or circular",
+    "The gap between having a vague idea and having a structured argument"
+  ],
+  "strengths": [
+    "Metacognitive — already thinking about her own thinking",
+    "Uses AI for reasoning-intensive tasks rather than answer retrieval",
+    "Comfortable with ambiguity and open-ended conversation",
+    "Would benefit most from subtle refinement, not big behavioral change"
+  ],
+  "current_situation": "Drew is working on her thesis proposal and has been using Claude to help structure her argument. She just realized she's spent 90 minutes talking to Claude and hasn't actually written anything yet. The talking felt productive. But the document is still blank.",
+  "success_looks_like": "Drew identifies the specific moment where AI use supports her and where it becomes avoidance. She designs a concrete practice for herself — not rules, just awareness checkpoints — and feels good about it."
+}

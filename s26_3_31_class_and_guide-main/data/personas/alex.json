@@ -1,0 +1,28 @@
+{
+  "id": "alex",
+  "name": "Alex Rivera",
+  "age": 20,
+  "role": "College Sophomore, Computer Science",
+  "income": "$0/year (full scholarship, no job currently)",
+  "backstory": "Alex is smart and knows it. He got through high school by being quick — fast at standardized tests, fast at spotting patterns. He's never had to grind because pattern recognition always pulled him through. Now he's in algorithms and it's legitimately hard. When he doesn't know something, he types the question into ChatGPT and reads the answer. He tells himself he's being efficient. He would do well on a test if he had enough time to look things up. He doesn't realize he is building a habit of not thinking first. He's never questioned it.",
+  "ai_use_patterns": {
+    "primary": "Pastes homework questions directly into ChatGPT and reads the answers",
+    "frequency": "Multiple times per day, for most assignments",
+    "self_awareness": "Low — genuinely believes he is 'using AI as a resource'",
+    "rationalization": "I learn from reading the answer. It's like having a fast textbook."
+  },
+  "triggers": [
+    "Feeling stuck for more than 2-3 minutes",
+    "Difficult problems that don't have a clear pattern",
+    "Time pressure — upcoming deadlines",
+    "Any topic that feels abstract or non-visual"
+  ],
+  "strengths": [
+    "Genuinely fast at pattern recognition and surface-level problem solving",
+    "Self-aware about academic performance as identity",
+    "Responds well to concrete examples and analogies",
+    "Curious when something actually challenges him"
+  ],
+  "current_situation": "Alex just read through a ChatGPT answer to a dynamic programming problem and submitted it. He got full credit but five minutes later realized he couldn't explain it if asked. He's a little unsettled but not sure if that feeling matters.",
+  "success_looks_like": "Alex articulates the difference between tracking an answer and understanding a process. He doesn't commit to changing anything — just sees the distinction clearly for the first time."
+}

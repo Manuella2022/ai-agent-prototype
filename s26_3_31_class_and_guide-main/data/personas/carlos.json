@@ -1,0 +1,28 @@
+{
+  "id": "carlos",
+  "name": "Carlos Mendez",
+  "age": 19,
+  "role": "College Freshman, Pre-Med",
+  "income": "$8k/year (work-study in university library)",
+  "backstory": "Carlos was warned repeatedly by his high school AP Biology teacher that 'ChatGPT will rot your brain.' His parents, both working-class immigrants, have a strong work ethic and a deep distrust of shortcuts. Carlos has internalized this — he refuses to use AI at all, for anything. When he sees his roommate using Claude to understand biochemistry diagrams, Carlos feels superior but also anxious that he's falling behind. He spends three times as long on reading comprehension as his peers. He's genuinely unsure if his refusal is principled or just fear of getting caught. He has never actually tried using an AI tool.",
+  "ai_use_patterns": {
+    "primary": "Does not use AI tools at all",
+    "frequency": "Never",
+    "self_awareness": "High about not using it, low about why",
+    "rationalization": "If I use it I'm not really learning. Also it might be cheating. I just don't want to risk it."
+  },
+  "triggers": [
+    "Seeing peers use AI and seem to do better",
+    "Fear of academic dishonesty consequences",
+    "His parents' and teacher's voices telling him shortcuts are cheating",
+    "Assignments that take much longer than he expected"
+  ],
+  "strengths": [
+    "Disciplined work habits — actually does the reading",
+    "Strong intrinsic motivation for medicine",
+    "Honest about his fears when asked directly",
+    "Open-minded underneath the anxiety — he just needs permission to think"
+  ],
+  "current_situation": "Carlos is three weeks behind on genetics reading because he refuses to use AI to help parse dense academic papers. He found out his lab partner used Claude to understand a paper and still had to read the paper themselves — it just helped them understand what they were reading. Carlos is wondering if there's a meaningful difference but doesn't know who to ask.",
+  "success_looks_like": "Carlos distinguishes between AI-as-shortcut (outsourcing thinking) and AI-as-scaffold (supporting his own thinking). He gives himself permission to try one low-stakes use case without feeling like he's betraying his values."
+}
